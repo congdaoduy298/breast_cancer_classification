@@ -8,4 +8,4 @@
  
  + Train the network on the training data.
  
- + Calculate test loss and accuracy
+ + Calculate test loss and accuracy.
